@@ -28,4 +28,18 @@
 // console.log(2**2); output:- 4
 // console.log(3**2); output:- 9
 // for non-integer number as well
-// console.log(4**1/2);   power of 1/2 is the same as a square root
+// console.log(4**1/2); output:- 2  power of 1/2 is the same as a square root
+
+// String concatenation with binary +
+// In case of String binary + is used for marge the string
+// let fullName = "Ashutosh " + "Kumar " + "Singh"
+// console.log(fullName); Output:- Ashutosh Kumar Singh
+
+// If any of the operand is String than the other one is also string.
+// let fullName = "Ashutosh " + 14 + 7 + 2001;
+// console.log(fullName); Output:- Ashutosh 1472001  If the first operand is string than the other two are also string.
+// console.log(2+2+'1'); Output: 41
+// console.log('1'+2+2); Output: 14
+// console.log(5 - '1'); Output: 4
+// console.log('3' - '1'); output: 2
+// console.log('6' / '2'); Output: 3
