@@ -43,3 +43,14 @@
 // console.log(5 - '1'); Output: 4
 // console.log('3' - '1'); output: 2
 // console.log('6' / '2'); Output: 3
+
+// Numeric Conversion , unary +
+// The plus operator doesn't do any thing to the number but if the operand is not a number unary + convert it into the number.
+// let x = 1;
+// alert(+x); output: 1
+// let y = -2;
+// alert(+y); output: -2
+// let a = true;
+// alert(+a); output: 1
+// let a = "";
+// alert(+a); output: 0
